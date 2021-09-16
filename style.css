@@ -1,0 +1,77 @@
+.container{
+    border: 2px solid;
+    border-radius: 10px;
+    background: linear-gradient(90deg, hsl(22, 88%, 10%) 0%, rgba(77, 32, 6, 0.787) 39%);
+}
+header{
+    display: flex;
+}
+.menu-site a{
+    text-decoration: none;
+    color: ;
+    font-size: 16px;
+    padding: 3%;
+    color: white;
+}
+.menu-site{
+    width: 70%;
+    text-align: center;
+    margin-top: 30px;
+    text-transform: capitalize;
+}
+.name-site{
+    width: 15%;
+    font-size: 30px;
+    font-family: monospace;
+    margin-top: 10px;
+    margin-left: 30px;
+    color: white;
+}
+button{
+    width: 80px;
+    height: 35px;
+    border-radius: 30px;
+    margin-top: 20px;
+    margin-right: 30px;
+    color: white;
+    border: 1px solid white;
+    background-color: rgb(115, 79, 59);
+    cursor: pointer;
+}
+.text{
+    text-align: center;
+    color: white;
+}
+main h1{
+    margin-bottom: 5px;
+    text-transform: capitalize;
+    font-size: 56px;
+    color: white;
+}
+
+.connect{
+    margin-top: 18em;
+    color: white
+}
+.images{
+    display: flex;
+}
+.img-starboy{
+    position: relative;
+    left: 5%;
+}
+.btn-right{
+    position: relative;
+    left: 18%;
+    top: 15em;
+}
+.btn-left{
+    position: relative;
+    left: 3%;
+    top: 15em;
+}
+.audio{
+    position: relative;
+    left: 5%;
+    top: 36em;
+}
